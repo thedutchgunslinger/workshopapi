@@ -1,0 +1,25 @@
+ul {
+    list-style: none;
+}
+
+li {
+    margin: 1rem;
+    border: rgb(99, 99, 99) 1px solid;
+    padding: 1rem;
+}
+
+.card-body {
+    color: black;
+    /* border: black 1px solid;  */
+}
+
+#searchBar {
+    width: 50%;
+    display: inline-block;
+    margin: 2rem 25%;
+}
+
+#searchBar input {
+    width: 100%;
+}
+
